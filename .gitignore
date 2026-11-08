@@ -1,0 +1,11 @@
+# Derleme ciktilari
+bin/
+obj/
+dist/
+
+# Ucuncu taraf motorlar (README'deki adimlarla kurulur)
+engine/
+
+# Visual Studio
+.vs/
+*.user
