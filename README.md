@@ -37,3 +37,7 @@ dotnet publish Tenaire.csproj -c Release -o dist
 
 - [scrcpy](https://github.com/Genymobile/scrcpy) (Apache 2.0)
 - [FFmpeg](https://ffmpeg.org) (LGPL)
+
+## Lisans
+
+Tenaire'in kaynak kodu [MIT lisansı](LICENSE) ile dağıtılır. scrcpy ve FFmpeg kendi lisanslarına tabidir.
